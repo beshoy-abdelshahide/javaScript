@@ -1,0 +1,131 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+    font-family: 'PT Sans Narrow', sans-serif;      
+}
+.container{
+    width: 1250px;
+    margin: auto;
+    
+} 
+.custom-btn{
+    background: none;
+    border: none;
+    background-color:darkturquoise;
+    color: white;   
+    font-size: 22px;
+    text-transform: uppercase;
+    padding: 20px 20px;
+    border-radius: 5px;     
+    
+}
+ul{
+    list-style: none;
+}
+/* header 
+zzzzzzzzzzzzzzzzzzzzzz*/ 
+header{
+    background-image: url(../image/HEADER.png);
+    color: white;
+    text-align: center;
+    background-repeat:  no-repeat;
+    background-size: cover; 
+    background-attachment: fixed;
+}
+heade r nav {
+    padding-top:  50xp;
+    
+}
+header nav ul {
+   
+}
+header nav ul li {
+     display: inline-block;
+    margin: 0 70px;
+}
+header nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+header nav ul li a image{
+    
+}
+header .title{
+    margin-top: 170px;
+}
+headr .title h1{
+    
+}
+header .title span{
+    display: block;
+} 
+header .title button{
+    margin-top: 50px;
+}
+header ul .social {
+    margin-top: 150px;
+}
+header ul .social li{
+
+}
+header ul .social li a{
+    color: white;
+}
+header ul .social li a i {
+    font-size: 25px;
+    margin: 20px 10px; 
+}
+/* life
+=====================*/
+.life{
+    padding: 100px 0;
+    background-image: url(../image/PART2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.life .head-section{
+    width: 400px;
+}
+.head-section h2{
+    color: darkturquoise;
+    margin-bottom: 40px;
+    
+}
+.head-section p{
+    color: darkgray;
+    margin-bottom: 40px;
+    line-height: 29px;
+    
+}
+.head-section p span{
+    color: black;
+}
+.head-section p button{
+    
+}
+/* design
+===========================*/
+.design{
+    padding-top: 100px;
+    background: 
+}
+.design .content{
+    float:left;
+    width: 50%
+    
+}
+.design .content img {
+    
+}
+.design .content .head-section{
+    margin-top: 50px;
+     
+}
+
+
+
+
+
+
